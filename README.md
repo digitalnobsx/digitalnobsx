@@ -1,4 +1,4 @@
-<h1>Hi, I'm Itoro! <br/><a href="https://github.com/joshmadakor1">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/itoro-udounwa/">Cybersecurity Professional</a>
+<h1>Hello, I'm Itoro! <br/><a href="https://github.com/joshmadakor1">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/itoro-udounwa/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber-Security Projects:</h2>
 
