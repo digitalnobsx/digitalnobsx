@@ -1,4 +1,4 @@
-<h1>Hello, I'm Itoro! <br/><a href="https://github.com/digitalnobsx">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/itoro-udounwa/">Cybersecurity Professional</a>
+<h1>Hello, I'm Joseph! <br/><a href="https://github.com/digitalnobsx">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/itoro-udounwa/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Sys Admin Projects:</h2>
 
@@ -9,6 +9,9 @@
  
 <h2>👨‍💻 CyberSecurity Projects(Coming soon):</h2>
 
+- <b>Projects</b>
+  - [Detection Lab]
+  - [SOC Automation Project]
 
 
 <h2>👨‍💻 Front End Projects:</h2>
@@ -23,7 +26,12 @@
 - <b>Python</b>
   - [Basic CRUD App using Django] (https://github.com/digitalnobsx/django-models)
 
+## Certifications
 
+<div>
+<a><img (https://www.credly.com/badges/6f19b199-f9d9-4ea7-b2da-cb4c04980398) src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white"> <a/>
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
 
    
 
