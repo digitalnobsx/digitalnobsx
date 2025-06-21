@@ -1,19 +1,31 @@
 <h1>Hello, I'm Itoro! <br/><a href="https://github.com/digitalnobsx">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/itoro-udounwa/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cyber-Security Projects:</h2>
+<h2>👨‍💻 Sys Admin Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell(Coming Soon)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
-  - [JWipe (Disk Wiping Utility)]
+- <b>PowerShell</b>
+  - [ALX System Engineering] (https://github.com/digitalnobsx/alx-system_engineering-devops)
+  - [JWipe (Disk Wiping Utility)](coming soon)
   - [Active Directory Bulk User Creation]
-  - [FIM (File Integrity Monitor)]
+ 
+<h2>👨‍💻 CyberSecurity Projects(Coming soon):</h2>
+
+
+
+<h2>👨‍💻 Front End Projects:</h2>
+
+- <b>Javascript</b>
+  - [Responsive Registration form)] (https://github.com/digitalnobsx/Free-Trial-page)
+  - [Landing Page for Client (Butterfly Consults)] (https://github.com/digitalnobsx/butterfly-consult-main)
+  - [Food Menu with Vanilla JS] (https://github.com/digitalnobsx/food-menu)
+  - [Testimonials Page using HTML, CSS and Vanilla JavaSCript] (https://github.com/digitalnobsx/food-menu)
+  - [Single Page App with React] (https://github.com/digitalnobsx/links-page)
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
+  - [Basic CRUD App using Django] (https://github.com/digitalnobsx/django-models)
+
+
+
+   
 
 
 
