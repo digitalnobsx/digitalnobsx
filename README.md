@@ -8,7 +8,7 @@
   - [Active Directory lab: Organizing OUs and Applying Group Policies] (https://www.notion.so/LAB-Group-Policies-in-AD-226fbe61ef21802ab766cecaa66316f5?source=copy_link)
   - [Active Directory Bulk User Creation] (coming soon)
  
-<h2>👨‍💻 CyberSecurity Projects(Coming soon):</h2>
+<h2>👨‍💻 CyberSecurity Projects(In-Progress):</h2>
 
 - <b>Projects</b>
   - [Detection Lab]
