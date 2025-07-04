@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Helpdesk & Sys Admin Projects:</h2>
 
-- <b>PowerShell</b>
+- <b>Projects</b>
   - [ALX System Engineering] (https://github.com/digitalnobsx/alx-system_engineering-devops)
   - [Active Directory lab (Domain Controller(WS19) + Client Integration(WIN10))] (https://www.notion.so/LAB-Setting-up-AD-Domain-225fbe61ef218013b49bd3129ed9178b?source=copy_link)
   - [Active Directory lab: Organizing OUs and Applying Group Policies] (https://www.notion.so/LAB-Group-Policies-in-AD-226fbe61ef21802ab766cecaa66316f5?source=copy_link)
