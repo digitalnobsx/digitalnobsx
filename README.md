@@ -1,6 +1,6 @@
 <h1>Hello, I'm Joseph! <br/><a href="https://github.com/digitalnobsx">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/itoro-udounwa/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Sys Admin Projects:</h2>
+<h2>👨‍💻 Helpdesk & Sys Admin Projects:</h2>
 
 - <b>PowerShell</b>
   - [ALX System Engineering] (https://github.com/digitalnobsx/alx-system_engineering-devops)
